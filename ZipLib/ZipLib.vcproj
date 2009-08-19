@@ -242,10 +242,6 @@
 				>
 			</File>
 		</Filter>
-		<File
-			RelativePath=".\res\ReadMe.txt"
-			>
-		</File>
 	</Files>
 	<Globals>
 	</Globals>
