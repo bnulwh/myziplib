@@ -4,3 +4,7 @@
 
 #include "ZipLib.h"
 
+Exception::Exception(const char* message)
+{
+
+}
