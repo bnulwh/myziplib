@@ -6,8 +6,11 @@ using namespace System;
 
 namespace ZipLib {
 
-	public ref class Class1
+	public ref class Exception
 	{
 		// TODO: 在此处添加此类的方法。
+	public:
+		Exception(const char* message);
+
 	};
 }
